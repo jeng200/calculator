@@ -1,0 +1,28 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  padding: 120px 0;
+  text-align: center;
+  border: solid 1px black;
+  background: silver;
+  font-size: 21px;
+  color: black;
+}
+
+span {
+  border-bottom: 2px solid black;
+  padding: 4px;
+}
+
+button {
+  margin: 20px 0;
+  background: blue;
+  color: whitesmoke;
+  border: 1px solid black;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 5px 8px;
+}
